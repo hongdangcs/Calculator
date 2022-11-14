@@ -3,4 +3,6 @@
     <string name="application_name">Android Calculator</string>
     <string name="number">Number:</string>
     <string name="percent">Percent</string>
+    <string name="calculate_result">Calculate result</string>
+    <string name="result">Result</string>
 </resources>
